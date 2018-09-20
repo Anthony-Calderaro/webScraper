@@ -1,7 +1,7 @@
-#! oscarsAPI.py
+#! template.py
 import json, requests, re
 
-# Download the JSON data from API.
+# Download the JSON data from Sample API.
 url = "http://oscars.yipitdata.com"
 response = requests.get(url)
 response.raise_for_status()
