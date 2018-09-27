@@ -8,5 +8,5 @@ A template for recurring data scraping from websites that update periodically. S
 ### Upcoming Features
 (1) Automatic emailing    
 (2) Automatic texting     
-(3) Automatic tweeting
+(3) Automatic tweeting  
 (4) Automatic ad-blocking
